@@ -213,7 +213,7 @@ Then go to your GitHub repo → **Actions** tab to watch it run.
 
 Go to **GitHub repo → Settings → Secrets and variables → Actions** and add:
 
-| Secret Name | Value 
+| Secret Name | Value |
 |-------------|-------|
 | `KUBECONFIG` | Contents of your `~/.kube/config` file (needed for Step 7 deploy) |
 
